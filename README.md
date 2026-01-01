@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Mayank Dubey
 
-<!--
-**mayank-dubey-19/mayank-dubey-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer | C • HTML • CSS
 
-Here are some ideas to get you started:
+I'm currently learning Programming & Full Stack Web Development.
+I love creating simple projects, learning new technologies, and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills & Tools
+
+Languages: C, HTML, CSS
+Tools: Git, GitHub, VS Code
+Learning: Frontend Development, Full Stack Concepts
+
+📌 What I’m Working On
+
+🔹 Creating mini C programs
+🔹 Building HTML/CSS UI pages
+🔹 Learning JavaScript
+🔹 Uploading small projects to GitHub
+
+🎯 My Goals
+
+Become a Full Stack Developer
+Build real-world projects
+Contribute to open-source
+Maintain a strong GitHub profile
+
+⭐ Thanks for visiting my profile....!
