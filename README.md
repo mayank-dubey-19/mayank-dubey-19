@@ -18,6 +18,12 @@ Learning: Frontend Development, Full Stack Concepts
 🔹 Learning JavaScript
 🔹 Uploading small projects to GitHub
 
+📚 Education 
+
+10th       : 92.5 %
+12th       : 78.6 %
+graduation : expected in 2028 
+
 🎯 My Goals
 
 Become a Full Stack Developer
