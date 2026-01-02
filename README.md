@@ -7,9 +7,9 @@ I love creating simple projects, learning new technologies, and improving every 
 
 🚀 Skills & Tools
 
-Languages: C, HTML, CSS
-Tools: Git, GitHub, VS Code
-Learning: Frontend Development, Full Stack Concepts
+🔸️ Languages: C, HTML, CSS 
+🔸️ Tools: Git, GitHub, VS Code 
+🔸️ Learning: Frontend Development, Full Stack Concepts 
 
 📌 What I’m Working On
 
@@ -20,15 +20,15 @@ Learning: Frontend Development, Full Stack Concepts
 
 📚 Education 
 
-10th       : 92.5 %
-12th       : 78.6 %
-graduation : expected in 2028 
+🔸️ 10th       : 92.5 % 
+🔸️ 12th       : 78.6 % 
+🔸️ graduation : expected in 2028 
 
 🎯 My Goals
 
-Become a Full Stack Developer
-Build real-world projects
-Contribute to open-source
-Maintain a strong GitHub profile
+🔹️ Become a Full Stack Developer 
+🔹️ Build real-world projects  
+🔹️ Contribute to open-source 
+🔹️ Maintain a strong GitHub profile
 
 ⭐ Thanks for visiting my profile....!
