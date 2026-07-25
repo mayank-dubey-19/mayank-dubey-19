@@ -12,7 +12,6 @@ I love creating simple projects, learning new technologies, and improving every 
 
 📌 What I’m Working On
 
-🔹 Creating mini C programs
 🔹 Uploading small projects to GitHub
 
 📚 Education 
