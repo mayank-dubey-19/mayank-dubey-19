@@ -5,9 +5,9 @@
 I'm currently learning Programming & Full Stack Web Development.
 I love creating simple projects, learning new technologies, and improving every day.
 
-🚀Skills  &  🛠️Tools
+<hr>
 
- 
+🚀Skills  &  🛠️Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +19,7 @@ I love creating simple projects, learning new technologies, and improving every 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+<hr>
 📌 What I’m Working On
 
 🔹 Uploading small projects to GitHub
