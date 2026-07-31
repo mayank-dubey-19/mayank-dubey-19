@@ -57,10 +57,7 @@ I love creating simple projects, learning new technologies, and improving every 
 
 <hr>
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-dubey-19&show_icons=true&theme=default)
-
-
 
 
 ⭐ Thanks for visiting my profile....!
