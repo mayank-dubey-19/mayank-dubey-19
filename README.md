@@ -20,15 +20,14 @@ I love creating simple projects, learning new technologies, and improving every 
 </p>
 
 <hr>
-📌 What I’m Working On
-
-🔹 Uploading small projects to GitHub
 
 📚 Education 
 
 🔸️ 10th       : 92.5 % 
 🔸️ 12th       : 78.6 % 
 🔸️ graduation : expected in 2028 
+
+<hr>
 
 🎯 My Goals
 
