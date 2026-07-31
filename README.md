@@ -57,18 +57,10 @@ I love creating simple projects, learning new technologies, and improving every 
 
 <hr>
 
-![Stars](https://img.shields.io/github/stars/mayank-dubey-19/REPO-NAME)
-
-![Last Commit](https://img.shields.io/github/last-commit/mayank-dubey-19/REPO-NAME)
-
-![Build Status](https://img.shields.io/github/actions/workflow/status/mayank-dubey-19/REPO-NAME/main.yml)
-
-<hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-dubey-19&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-dubey-19)
 
-![Followers](https://img.shields.io/github/followers/mayank-dubey-19?style=social)
+
 
 ⭐ Thanks for visiting my profile....!
