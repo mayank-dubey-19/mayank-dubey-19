@@ -55,5 +55,14 @@ I love creating simple projects, learning new technologies, and improving every 
 </a>
 </p>
 
+<hr>
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/main.yml)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO)
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
+
+<hr>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
 
 ⭐ Thanks for visiting my profile....!
