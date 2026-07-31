@@ -5,7 +5,22 @@
 I'm currently learning Programming & Full Stack Web Development.
 I love creating simple projects, learning new technologies, and improving every day.
 
-<hr>
+ <hr>
+
+📚 Education 
+
+🔸️ 10th       : 92.5 % 
+🔸️ 12th       : 78.6 % 
+🔸️ graduation : expected in 2028 
+
+ <hr>
+
+🎯 My Goals
+
+🔹️ Become a Full Stack Developer 
+🔹️ Build real-world projects  
+🔹️ Contribute to open-source 
+🔹️ Maintain a strong GitHub profile
 
 🚀Skills  &  🛠️Tools
 
@@ -21,19 +36,16 @@ I love creating simple projects, learning new technologies, and improving every 
 
 <hr>
 
-📚 Education 
+📫 Connect with me
 
-🔸️ 10th       : 92.5 % 
-🔸️ 12th       : 78.6 % 
-🔸️ graduation : expected in 2028 
+<p align="left">
+<a href="https://linkedin.com/in/mayank-dubey-7147543a2" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mayankdubey0214@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-<hr>
-
-🎯 My Goals
-
-🔹️ Become a Full Stack Developer 
-🔹️ Build real-world projects  
-🔹️ Contribute to open-source 
-🔹️ Maintain a strong GitHub profile
 
 ⭐ Thanks for visiting my profile....!
