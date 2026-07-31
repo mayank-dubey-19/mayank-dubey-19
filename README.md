@@ -7,13 +7,16 @@ I love creating simple projects, learning new technologies, and improving every 
 
  <hr>
 
+
 📚 Education 
 
 🔸️ 10th       : 92.5 % 
 🔸️ 12th       : 78.6 % 
 🔸️ graduation : expected in 2028 
 
+
  <hr>
+
 
 🎯 My Goals
 
@@ -21,6 +24,9 @@ I love creating simple projects, learning new technologies, and improving every 
 🔹️ Build real-world projects  
 🔹️ Contribute to open-source 
 🔹️ Maintain a strong GitHub profile
+
+<hr>
+
 
 🚀Skills  &  🛠️Tools
 
@@ -34,7 +40,9 @@ I love creating simple projects, learning new technologies, and improving every 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
+
 <hr>
+
 
 📫 Connect with me
 
