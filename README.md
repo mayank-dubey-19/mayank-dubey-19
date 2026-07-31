@@ -8,7 +8,7 @@ I love creating simple projects, learning new technologies, and improving every 
 🚀 Skills & Tools
 ## 🛠️ Skills & Tools
 
-<table>
+<table  cellspacing="0" cellpading="0" >
   <tr>
     <td>
       
